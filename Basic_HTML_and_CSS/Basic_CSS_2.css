@@ -1,0 +1,11 @@
+p {
+    font-size: 18px;
+    color: darkblue;
+}
+
+/* Add shadow effect to the word "love" */
+.shadow {
+    text-shadow: 2px 2px 4px gray;
+    color: crimson;
+    font-weight: bold;
+}

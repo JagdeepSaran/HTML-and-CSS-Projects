@@ -1,0 +1,8 @@
+/* Change ordered list style */
+ol {
+    list-style-type: upper-roman; /* Try decimal, lower-alpha, upper-alpha, upper-roman */
+}
+
+/* Change unordered list style */
+ul {
+    list-style-type: square; /* Try disc, circle, square, none */
